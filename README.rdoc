@@ -4,8 +4,6 @@ Plugin that provides tab complete support for heroku console
 
 == Installation
 
-NOTE: This plugin depends on wirble being installed.
-
 To install:
 
     $ heroku plugins:install git://github.com/hone/heroku_tab_complete_console.git
