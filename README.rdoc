@@ -10,6 +10,17 @@ To install:
 
     $ heroku plugins:install git://github.com/hone/heroku_tab_complete_console.git
 
+== Features
+
+Should support the following tab complete features:
+
+* Constants
+* methods
+
+== To do
+
+Still need to figure out how to handle variables
+
 == Note on Patches/Pull Requests
  
 * Fork the project.
